@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PayRoll/static/css/main.0ea5d160.chunk.css",
+    "main.js": "/PayRoll/static/js/main.3e5c56bb.chunk.js",
+    "main.js.map": "/PayRoll/static/js/main.3e5c56bb.chunk.js.map",
+    "runtime-main.js": "/PayRoll/static/js/runtime-main.d4329ec7.js",
+    "runtime-main.js.map": "/PayRoll/static/js/runtime-main.d4329ec7.js.map",
+    "static/js/2.22594546.chunk.js": "/PayRoll/static/js/2.22594546.chunk.js",
+    "static/js/2.22594546.chunk.js.map": "/PayRoll/static/js/2.22594546.chunk.js.map",
+    "static/js/3.e9c297cf.chunk.js": "/PayRoll/static/js/3.e9c297cf.chunk.js",
+    "static/js/3.e9c297cf.chunk.js.map": "/PayRoll/static/js/3.e9c297cf.chunk.js.map",
+    "index.html": "/PayRoll/index.html",
+    "static/css/main.0ea5d160.chunk.css.map": "/PayRoll/static/css/main.0ea5d160.chunk.css.map",
+    "static/js/2.22594546.chunk.js.LICENSE.txt": "/PayRoll/static/js/2.22594546.chunk.js.LICENSE.txt",
+    "static/media/Logo.6d813fb6.png": "/PayRoll/static/media/Logo.6d813fb6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4329ec7.js",
+    "static/js/2.22594546.chunk.js",
+    "static/css/main.0ea5d160.chunk.css",
+    "static/js/main.3e5c56bb.chunk.js"
+  ]
+}
